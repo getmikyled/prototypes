@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-2DPrototyping/Assets/**/[Ll]ibrary/
-2DPrototyping/Assets/**/[Tt]emp/
-2DPrototyping/Assets/**/[Oo]bj/
-2DPrototyping/Assets/**/[Bb]uild/
-2DPrototyping/Assets/**/[Bb]uilds/
-2DPrototyping/Assets/**/[Ll]ogs/
-2DPrototyping/Assets/**/[Uu]ser[Ss]ettings/
+2DPrototyping/[Ll]ibrary/
+2DPrototyping/[Tt]emp/
+2DPrototyping/[Oo]bj/
+2DPrototyping/[Bb]uild/
+2DPrototyping/[Bb]uilds/
+2DPrototyping/[Ll]ogs/
+2DPrototyping/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
